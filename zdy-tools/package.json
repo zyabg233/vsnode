@@ -1,0 +1,9 @@
+{
+   
+    "name": "zdy-tools",
+    "version": "1.0.0",
+    "main": "tools.js",
+    "description": "提供格式化时间，htmlescape功能",
+    "license":"ISC",
+    "keywords": ["itheima","dataFormat","escape"]
+}
